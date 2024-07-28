@@ -1,0 +1,4 @@
+com\satyendra\document\entities\Document.class
+com\satyendra\document\controllers\DocumentController.class
+com\satyendra\document\DocumentWebApplication.class
+com\satyendra\document\repos\DocumentRepository.class
